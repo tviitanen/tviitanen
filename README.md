@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @tviitanen
 - 🇫🇮 I'm living in Finland
 - 👀 I’m interested in project management and working with people
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning Web Development with JavaScript, HTML, CSS & React
 - 📖 Studying Software Engineering at LUT University
 - 📫 You can reach me @[Linkedin](https://fi.linkedin.com/in/teemuviitanen)
 ### Skills
