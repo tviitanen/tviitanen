@@ -31,7 +31,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#-office-
 --->
 
 ### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/tviitanen"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/teemuviitanen/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
+<a href="https://github.com/tviitanen"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/teemuviitanen/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+
