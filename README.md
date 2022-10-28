@@ -3,7 +3,7 @@
 - 👀 I’m interested in project management and working with people
 - 🌱 I'm currently deepening my skills in Web Development
 - 📖 Studying Software Engineering at LUT University
-- 📫 You can reach me @[Linkedin](https://fi.linkedin.com/in/teemuviitanen)
+
 ### Skills
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,4 +42,5 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ### Let's Connect :coffee:
 <a href="https://github.com/tviitanen"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/teemuviitanen/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-
+<a href="mailto:teemu.viitanen@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" alt="Email"/></a>
+<a href="https://t.me/tviitanen"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
