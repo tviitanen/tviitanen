@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @tviitanen
 - 🇫🇮 I'm living in Finland
-- 👀 I’m interested in project management and working with people
+- 👀 I’m interested in project management, web development and working with people
 - 🌱 I'm currently deepening my skills in Web Development
 - 📖 Studying Software Engineering at LUT University
 
